@@ -15,7 +15,7 @@ Currently seeking opportunities in software development roles (SDE, Full Stack, 
 
 ## 📁 Resume File
 
-- [`Athin_PB_Software_Engineer_Resume_2025.pdf`](./Athin_PB_Software_Engineer_Resume_2025.pdf)
+- [`Athin_PB_Software_Engineer_Resume_2025.pdf`](https://github.com/Pbathin/Resume/blob/main/Athin_PB_Software_Developer.pdf)
 
 You can view or download the resume using the link above.
 
